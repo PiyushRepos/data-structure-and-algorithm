@@ -1,1 +1,1 @@
-# Learning Data Structure and Algorith
+# Learning Data Structure and Algorithm
